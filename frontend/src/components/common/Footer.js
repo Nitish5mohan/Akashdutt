@@ -8,7 +8,7 @@ export default function Footer() {
                 <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
                     {/* Company Info */}
                     <div>
-                        <h3 className="text-2xl font-bold mb-4">Antigravity</h3>
+                        <h3 className="text-2xl font-bold mb-4">Akashdutt</h3>
                         <p className="text-gray-400 text-sm">
                             Innovating Tomorrow's Drones. Leading the future of drone technology with AI, ML, and IoT solutions.
                         </p>
@@ -49,7 +49,7 @@ export default function Footer() {
                 </div>
 
                 <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400 text-sm">
-                    <p>&copy; 2024 Antigravity. All rights reserved.</p>
+                    <p>&copy; 2024 Akashdutt. All rights reserved.</p>
                 </div>
             </div>
         </footer>
