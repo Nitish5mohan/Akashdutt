@@ -48,7 +48,7 @@ export default function Home() {
             <section className="bg-gradient-to-r from-slate-900 via-blue-900 to-slate-900 text-white py-20">
                 <div className="container mx-auto px-4 text-center">
                     <h1 className="text-5xl md:text-7xl font-bold mb-6 animate-fade-in">
-                        Welcome to <span className="text-blue-400">Antigravity</span>
+                        Welcome to <span className="text-blue-400">Akashdutt</span>
                     </h1>
                     <p className="text-xl md:text-2xl text-gray-300 mb-8 max-w-3xl mx-auto">
                         Innovating Tomorrow's Drones Today
@@ -102,7 +102,7 @@ export default function Home() {
                 <div className="mt-20 bg-gradient-to-r from-blue-500 to-purple-600 rounded-2xl p-12 text-white text-center">
                     <h2 className="text-3xl md:text-4xl font-bold mb-4">Ready to Take Flight?</h2>
                     <p className="text-lg mb-8 text-blue-100">
-                        Join the drone revolution with Antigravity. Whether you need custom solutions or ready-to-fly drones, we've got you covered.
+                        Join the drone revolution with Akashdutt. Whether you need custom solutions or ready-to-fly drones, we've got you covered.
                     </p>
                     <Link href="/contact" className="bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition inline-block">
                         Get Started
