@@ -8,7 +8,7 @@ export default function Navbar() {
         <nav className="bg-gray-900 text-white p-4 sticky top-0 z-50">
             <div className="container mx-auto flex justify-between items-center">
                 <Link href="/" className="text-2xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-purple-600">
-                    Antigravity
+                    Akashdutt
                 </Link>
                 <div className="space-x-6 flex items-center">
                     <Link href="/rnd" className="hover:text-purple-400 transition">R&D</Link>
